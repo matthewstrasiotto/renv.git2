@@ -1,4 +1,4 @@
-Package: renv.git1
+Package: renv.git2
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
@@ -12,7 +12,5 @@ License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
 LazyData: true
-Imports:
-    git::git@github.com:matthewstrasiotto/renv.git2.git
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
